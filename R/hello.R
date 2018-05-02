@@ -25,3 +25,6 @@ hello3 <- function() {
 hello4 <- function() {
   print("Hello3, world!!!")
 }
+hello4 <- function() {
+  print("Hello3, world!!!")
+}
