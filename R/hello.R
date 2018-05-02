@@ -35,3 +35,6 @@ temp <- h + 1
 
 # edited by rigel13
 rigel <- 13
+
+a <- rigel + 1
+b <- rigel + 2
