@@ -19,15 +19,3 @@ hello <- function() {
 hello2 <- function() {
   print("Hello2, world!!!")
 }
-hello3 <- function() {
-  print("Hello3, world!!!")
-}
-hello4 <- function() {
-  print("Hello3, world!!!")
-}
-hello6 <- function() {
-  print("Hello3, world!!!")
-}
-hello5 <- function() {
-  print("Hello3, world!!!")
-}
