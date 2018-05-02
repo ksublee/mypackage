@@ -19,4 +19,7 @@ hello <- function() {
 hello2 <- function() {
   print("Hello2, world!!!")
 }
+hello3 <- function() {
+  print("Hello3, world!!!")
+}
 
