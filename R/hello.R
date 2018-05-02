@@ -25,6 +25,9 @@ hello3 <- function() {
 hello4 <- function() {
   print("Hello3, world!!!")
 }
-hello4 <- function() {
+hello6 <- function() {
+  print("Hello3, world!!!")
+}
+hello5 <- function() {
   print("Hello3, world!!!")
 }
