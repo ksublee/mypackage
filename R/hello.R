@@ -38,3 +38,6 @@ rigel <- 13
 
 a <- rigel + 1
 b <- rigel + 2
+
+
+fgdfdgf <- 0
